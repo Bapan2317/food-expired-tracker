@@ -18,7 +18,7 @@ A smart and modern web application to track your food freshness status — easil
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live site] server food-expiry-tracker-system.surge.sh/
+🔗 food-expiry-tracker-system.surge.sh/
 
 ---
 
